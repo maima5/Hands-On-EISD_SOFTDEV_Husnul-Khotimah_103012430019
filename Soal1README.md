@@ -9,7 +9,7 @@ Anggap kamu menjadi orang yang diminta membantu memikirkan perbaikan versi berik
 Jika kamu hanya boleh memperbaiki satu hal pada website tersebut, apa yang akan kamu perbaiki terlebih dahulu dan mengapa?
 
 Jawaban:
-Saya akan memperbaiki BACKEND VALIDATION
+Saya akan memperbaiki BACKEND VALIDATION.
 Saya akan memperbaiki server dengan menambahkan pengecekan logika di server sebelum data yang diinput user disimpan ke dalam database.
 1. Klik berkali kali akan terjadi duplikat data, maka diterapkan pengecekan email, bila email sudah terdaftar maka respon ditolak.
 2. Input asal-asalan maka backend akan diterapkan pengecekan validasi yaitu; nama tidak kosong, email valid, terdapat pilihan kelas.

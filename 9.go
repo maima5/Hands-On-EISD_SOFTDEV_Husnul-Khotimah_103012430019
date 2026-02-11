@@ -4,14 +4,7 @@ import "fmt"
 
 func main() {
 	var kuota int = 3
-
-	var pendaftar [5]string
-	pendaftar[0] = "Alya"
-	pendaftar[1] = "Bima"
-	pendaftar[2] = "Citra"
-	pendaftar[3] = "Doni"
-	pendaftar[4] = "Eka"
-
+	pendaftar := [5]string{"Dea", "Ijat", "Arra", "Budi", "Andi"}
 
 	var diterima [5]string
 	var ditolak [5]string

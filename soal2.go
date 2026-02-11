@@ -11,7 +11,6 @@ func main() {
 	var kuota [max]int
 	var terdaftar [max]int
 
-	// Isi manual (old fashioned style)
 	divisi[0] = "Software Development"
 	divisi[1] = "UI/UX Design"
 	divisi[2] = "Technopreneur"
@@ -43,3 +42,4 @@ func main() {
 		}
 	}
 }
+
